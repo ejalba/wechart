@@ -30,7 +30,7 @@
                     <!-- Branding Image -->
 
                         <a class="navbar-brand" href="{{ url('/') }}" >
-                            WeChart
+                            <img src="logos\wechart.png" width="25%">
                         </a>
                   </div>
 
